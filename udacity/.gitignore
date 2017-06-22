@@ -1,2 +1,6 @@
+# Datasets
 notMNIST_large*
 notMNIST_small*
+
+# Notebooks checkpoints
+.ipynb_checkpoints
