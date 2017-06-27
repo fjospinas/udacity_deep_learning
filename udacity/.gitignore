@@ -2,5 +2,9 @@
 notMNIST_large*
 notMNIST_small*
 
+# Serialized nizary data
+*.pickle
+
 # Notebooks checkpoints
 .ipynb_checkpoints
+
